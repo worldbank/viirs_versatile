@@ -3,4 +3,4 @@ VIIRS downloader and analyzer using GEE with a complete Pythonic approach. Basic
 
 This module is for downloading the VIIRS Stray Light Corrected Nighttime Day/Night Band Composites Version 1 dataset from Google Earth Engine.
 
-Due to the large file size, the World Bank adm2 Shapefile is not included in this package. You can download it here:
+Due to the large file size, the World Bank adm2 Shapefile is not included in this package. Please prepare your own ADM2 boundaries.
