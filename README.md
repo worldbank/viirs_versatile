@@ -9,7 +9,9 @@ All Jupyter notebooks are optimized for the [Google Colab](https://colab.google/
 
 ## Quick start:
 (1) Copy and paste all materials to your own Google Colab environment. If you are good at Python coding, a new Conda environment could also work but you likely need to modify some code blocks (especially around libraries and paths).
+
 (2) Start with viirs_downloader.ipynb to first download the VIIRS raster images for your AOI from GEE.
+
 (3) Once all raster images are downloaded, go to viirs_analyzer.ipynb to reduce anomaly pixels and compute zonal statistics within your AOI zones.
 
 ## Contributors
