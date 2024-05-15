@@ -5,7 +5,7 @@ All Jupyter notebooks are optimized for the [Google Colab](https://colab.google/
 
 ## Structure of the pipeline
 - viirs_downloader.ipynb : Download VIIRS rater images from GEE
-- viirs_analyzer.ipynb : Pre-process the VIIRS images and compute zonal stats.
+- viirs_analyzer.ipynb : Pre-process the VIIRS images and compute zonal stats
 
 ## Quick start:
 (1) Copy and paste all materials to your own Google Colab environment. If you are good at Python coding, a new Conda environment could also work but you likely need to modify some code blocks (especially around libraries and paths).
