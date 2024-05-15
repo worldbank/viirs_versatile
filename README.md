@@ -3,7 +3,7 @@ VIIRS downloader and analyzer using Google Earth Engine (GEE) with a complete Py
 
 All Jupyter notebooks are optimized for the [Google Colab](https://colab.google/) environment. The pre-processing of monthly VIIRS data in an X-array dataset is memory-heavy, so you likely need to upgrade your Google Colab account from a free to a paid one.
 
-# Structure of the pipeline
+## Structure of the pipeline
 - viirs_downloader.ipynb : Download VIIRS rater images from GEE
 - viirs_analyzer.ipynb : Pre-process the VIIRS images and compute zonal stats.
 
@@ -14,7 +14,7 @@ All Jupyter notebooks are optimized for the [Google Colab](https://colab.google/
 
 (3) Once all raster images are downloaded, go to viirs_analyzer.ipynb to reduce anomaly pixels and compute zonal statistics within your AOI zones.
 
-# Contributors
+## Contributors
 Eigo Tateishi (main coder)
 
 The World Bank (2024)
