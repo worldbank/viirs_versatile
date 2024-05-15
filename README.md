@@ -14,7 +14,7 @@ All Jupyter notebooks are optimized for the [Google Colab](https://colab.google/
 
 (3) Once all raster images are downloaded, go to viirs_analyzer.ipynb to reduce anomaly pixels and compute zonal statistics within your AOI zones.
 
-## Contributors
+# Contributors
 Eigo Tateishi (main coder)
 
 The World Bank (2024)
