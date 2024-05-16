@@ -16,7 +16,7 @@ All Jupyter notebooks are optimized for the [Google Colab](https://colab.google/
 
 
 ## Technical notes:
-- VIIRS datasets: **VIIRS_analysis.ipynb** has an anomaly-NTL reduction process (Filter-1: Noise reduction (background and max anomalies)) based on the NTL background noise mask (average_masked in [VIIRS Nighttime Day/Night Annual Band Composites V2.1](https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_ANNUAL_V21#bands)) and the avg_rad < 300 max-cap threshold. This process should be run before the other filtering processes.
+- `VIIRS_analyzer.ipynb` has an anomaly-NTL pixel reduction process (`Anomaly NTL piexels reduction (background noise and max anomalies)`) based on the NTL background noise mask (average_masked in [VIIRS Nighttime Day/Night Annual Band Composites V2.1](https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_ANNUAL_V21#bands)) and the avg_rad < 300 max-cap threshold. This process should be run before the other filtering processes.
 
 ## Contributors
 Eigo Tateishi (main coder)
