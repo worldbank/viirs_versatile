@@ -26,6 +26,6 @@ Fig. Anomaly pixel reduction result of Switzerland (CHE), example
 ![Anomaly pixel reduction result of Switzerland, CHE](/data/fig/spatial_visualization_of_anomalyReduction.png)
 
 ## Contributors
-Eigo Tateishi (main coder)
+- :star:`Eigo Tateishi` (main coder) / Contact person
 
 The World Bank (2024)
